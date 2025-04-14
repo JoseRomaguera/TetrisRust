@@ -1,0 +1,8 @@
+[package]
+name = "TetrisRust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+piston = "0.53"
+piston_window = "0.120.0"
